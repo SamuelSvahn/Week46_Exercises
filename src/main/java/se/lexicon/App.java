@@ -182,15 +182,35 @@ public class App {
 
     }
 
-    public static void ex12() {//Todo
+    public static void ex12() {
 
         Map<Integer,Car> cars= new HashMap<Integer,Car>();
         cars.put(1,new Car(1,"Bmw","X6M"));
         cars.put(2,new Car(2,"Audi", "RS7"));
 
-        for(Map.Entry entry : cars.entrySet()){
-            System.out.println(entry.getValue());
+        for (Map.Entry<Integer,Car> carEntry :cars.entrySet()){
+            System.out.println(carEntry.getValue().getBrand());
         }
+
+    }
+
+    //Challenges
+
+    public static void Exercise1(){
+
+        HashSet<String> days = new HashSet<String>();
+        days.add("Monday");
+        days.add("Tuesday");
+        days.add("Wednesday");
+        days.add("Thursday");
+        days.add("Friday");
+        days.add("Saturday");
+        days.add("Sunday");
+
+
+        ArrayList<String> extraDays= new ArrayList<String>();
+        extraDays.add("Saturday");
+        extraDays.add("Sunday");
 
     }
 }

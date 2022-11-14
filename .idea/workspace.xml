@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e645c051-f9e0-4c64-8973-7739c2d50de4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e645c051-f9e0-4c64-8973-7739c2d50de4" name="Changes" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/Car.java" afterDir="false" />
     </list>
@@ -70,6 +68,13 @@
       <option name="presentableId" value="Default" />
       <updated>1668422515664</updated>
     </task>
+    <task id="LOCAL−00001" summary="Updated">
+      <created>1668434522027</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1668434522028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
